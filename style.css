@@ -1,0 +1,75 @@
+#name{
+
+    color:black;
+
+}
+.header{
+    background-color:rgb(31, 242, 172);
+    color:black;
+    width:110%;
+    height:50px;
+    
+}
+.topnav{
+    text-decoration: none;
+    overflow: hidden;
+    font-size:large
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.btn{
+    border-radius: 45%;
+    background:rebeccapurple;
+    font-size: large;
+
+
+}
+img
+{
+   margin-top: 100px;
+    border-radius: 50%;
+   padding: 1px;
+   width:200px;
+   height:200px;
+}
+.des{
+    margin-top:100px ;
+    color:white;
+    text-align: center;
+    font-size: 24px;
+}
+.edu{
+    margin-top: 75px;
+}
+.ski{
+    color:orange;
+}
+.h22{
+    color:crimson;
+}
+.topnav a.active{
+    background-color: rgb(171, 5, 149);
+    color:white;
+
+}
+.ab{
+    margin-top:100px;
+    color: blue;
+}
+.map {
+ 
+    width:1500px;
+    height:500px;
+    
+    
+   
+  }
+  .cen{
+    margin-top: 300px;;
+  }
